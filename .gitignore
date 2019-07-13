@@ -4,7 +4,7 @@
 # *test* will ignore anything with test anywhere in it
 # FOLDER/ will ignore anything that's IN that directory will be ignored
 # git add . adds everything for the repository you're in
-# git add FILE OR FOLDER NAME will add JUST that item
+#### git add FILE OR FOLDER NAME will add JUST that item
 # ex: git add hello.txt will add JUST the file
 # ex: git add .filenameofhiddenfiles
 
