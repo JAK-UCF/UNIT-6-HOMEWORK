@@ -19,7 +19,10 @@
 api_JAK.py
 api_keys.py
 
-*.gitignore
+.gitignore
+
+*NOLOAD*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
