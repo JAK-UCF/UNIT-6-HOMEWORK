@@ -19,6 +19,8 @@
 api_JAK.py
 api_keys.py
 
+*.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
